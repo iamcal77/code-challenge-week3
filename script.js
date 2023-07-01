@@ -39,7 +39,8 @@ document.addEventListener('DOMContentLoaded', function () {
       titleElement.textContent = movie.title;
       runtimeElement.textContent = `Runtime: ${movie.runtime} minutes`;
       showtimeElement.textContent = `Showtime: ${movie.showtime}`;
-      ticketsElement.textContent = `Available Tickets: ${movie.tickets}`;
+      ticketsElement.textContent = `Available 
+      Tickets: ${movie.tickets}`;
   
       buyTicketButton.disabled = movie.tickets === 0;
     }
