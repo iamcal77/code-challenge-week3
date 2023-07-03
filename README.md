@@ -33,9 +33,9 @@ The program allows the user to vote for an animal of his or her choice. The prog
 6. json-server
 
 ## Getting it started
-To get this app started you have to run this command in your terminal
-
-       json-server --watch db.json 
+setup install json serve by running the code:
+      npm install -g json-server
+       
 
 
 
