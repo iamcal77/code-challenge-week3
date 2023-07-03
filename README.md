@@ -24,7 +24,7 @@ The program allows the user to vote for an animal of his or her choice. The prog
 2. css
 3. Vscode
 4. JavaScript
-5. Postman
+5. DB.JSON
 6. json-server
 
 ## Getting it started
