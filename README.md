@@ -34,7 +34,7 @@ To get this app started you have to run this command in your terminal
 
 
 ## Contact Info.
-### For more information you can reach out; Email ;kengeregordon@gmail.com
+### For more information you can reach out; Email ;calvinkipkirui99@gmail.com
 #### phone number 0715307457
 
 ## License
