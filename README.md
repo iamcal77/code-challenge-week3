@@ -3,7 +3,8 @@
 ## Author - Calvin Kipkirui
 
 ## Project Description 
-  a program that allows the user to vote for animal names in a list 
+  Flatdango Movie Theatre is a modern cinema in the city, offering diverse movie genres, state-of-the-art facilities, comfortable seating, and online ticket booking for an immersive and convenient movie-watching experience..
+It also enables one to book a movie and shows the number of tickets remaining
 
 #### This is my week 2 code challenge showing how i did the project.
 
