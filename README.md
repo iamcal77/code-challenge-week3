@@ -6,7 +6,11 @@
   Flatdango Movie Theatre is a modern cinema in the city, offering diverse movie genres, state-of-the-art facilities, comfortable seating, and online ticket booking for an immersive and convenient movie-watching experience..
 It also enables one to book a movie and shows the number of tickets remaining
 
-#### This is my week 2 code challenge showing how i did the project.
+#### Development requirements
+1.Visual studio code
+2.Live server extension
+3.npm
+4.json-sever
 
 ## Setting up project
 The program allows the user to vote for an animal of his or her choice. The program then stores the number of votes to the severe. The information in the severe can be used to determine the animal with the most number of votes.
