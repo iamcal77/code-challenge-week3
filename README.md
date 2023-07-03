@@ -35,7 +35,7 @@ To get this app started you have to run this command in your terminal
 
 ## Contact Info.
 ### For more information you can reach out; Email ;kengeregordon@gmail.com
-#### phone number 0746854108
+#### phone number 0715307457
 
 ## License
 MIT License
