@@ -1,4 +1,5 @@
 # week2-code -challenge
+Flatdango Movie Theatre App
 
 ## Author - Calvin Kipkirui
 
