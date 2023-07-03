@@ -36,6 +36,8 @@ The program allows the user to vote for an animal of his or her choice. The prog
 setup install json serve by running the code:
       npm install -g json-server
        
+To watch the db.json server run the code:
+json-server --watch db.json
 
 
 
