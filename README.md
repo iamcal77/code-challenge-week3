@@ -1,6 +1,6 @@
 # week2-code -challenge
 
-## Author - Gordon Kengere
+## Author - Calvin Kipkirui
 
 ## Project Description 
   a program that allows the user to vote for animal names in a list 
